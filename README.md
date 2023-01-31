@@ -1,4 +1,4 @@
-# start-recording-reminder
+# meeting-start-recording-reminder
 This is a simple script working as an alert to remind you to start recording your meeting by poping up a message on your meeting tab with an option to stop the alert or snoozing for a particular number of mintues.
 
 ## STEP #1: Install tampermonkey extension on your browser
