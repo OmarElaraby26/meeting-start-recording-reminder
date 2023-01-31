@@ -2,7 +2,7 @@
 This is a simple script working as an alert to remind you to start recording your meeting by poping up a message on your meeting tab with an option to stop the alert or snoozing for a particular number of mintues.
 
 ## STEP #1: Install tampermonkey extension on your browser
-Go to [termpmonkey website](https://www.tampermonkey.net/index.php?browser=chrome) where you will find links of the extension for your browser or install it directly from the following links
+We need a tool to run our script automatically. You can use tampermonkey. To install it go to [termpmonkey website](https://www.tampermonkey.net/index.php?browser=chrome) where you will find links of the extension for your browser or install it directly from the following links
 [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), 
 [firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/),
 [Microsoft edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd),
