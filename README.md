@@ -38,7 +38,7 @@ click on tampermonkey extension icon on your browser and from the menu that will
     }, minutes * 60 * 1000);
 })();
 ```
-3. In the script add the URLs of the meetings you would like to be reminded in. And make sure that the URLs meet the followed format:  `https://meet.google.com/abc-defg-hij*` (starting with `https://meet.google.com/` followed by the `path` following by `*`). See the image below for more clarification.
+3. In the script add the URLs of the meetings you would like to be reminded in. And make sure that the URLs meet that format:  `https://meet.google.com/abc-defg-hij*` (starting with `https://meet.google.com/` followed by the `path` followed by `*`). See the image below for more clarification.
 
 ![Screenshot from 2023-01-31 08-53-37](https://user-images.githubusercontent.com/47684373/215689037-cf71cf31-5a69-4022-84b7-ea3de7af46b8.png)
 
